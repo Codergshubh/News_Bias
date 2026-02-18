@@ -2,7 +2,6 @@
 
 A transformer-based NLP project for detecting contextual bias in short news headlines using **RoBERTa-base**. The model is fine-tuned on a manually labeled dataset and evaluated for performance and interpretability.
 
----
 
 ## 📌 Overview
 
@@ -15,7 +14,6 @@ This project builds a binary classifier to detect such bias automatically.
 
 The model captures deep semantic context rather than relying on simple keyword frequency.
 
----
 
 ## 🚀 Results
 
@@ -24,8 +22,6 @@ The model captures deep semantic context rather than relying on simple keyword f
 - Balanced precision and recall across both classes
 - Minimal overfitting through regularization
 - LIME-based explanations confirm context-driven predictions
-
----
 
 ## 🛠 Tech Stack
 
@@ -36,7 +32,6 @@ The model captures deep semantic context rather than relying on simple keyword f
 - LIME (Explainability)
 - Google Colab (GPU Training)
 
----
 
 ## 📂 Project Structure
 
@@ -45,8 +40,6 @@ The model captures deep semantic context rather than relying on simple keyword f
 ├── test.csv # Test dataset (20 samples)
 └── README.md
 
-
----
 
 ## 📊 Dataset
 
