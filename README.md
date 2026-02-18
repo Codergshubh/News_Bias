@@ -35,10 +35,10 @@ The model captures deep semantic context rather than relying on simple keyword f
 
 ## 📂 Project Structure
 
-├── code.py # Model training & evaluation script
-├── train.csv # Training dataset (100 samples)
-├── test.csv # Test dataset (20 samples)
-└── README.md
+- code.py # Model training & evaluation script
+-  train.csv # Training dataset (100 samples)
+- test.csv # Test dataset (20 samples)
+  - README.md
 
 
 ## 📊 Dataset
